@@ -1,0 +1,13 @@
+.background    { background: rgb(69,41,36);
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.acid        { background: rgb(38, 216, 64); }
+.wall          { background: rgb(153,119,85);   }
+.floater       { background: rgb(194,184,158);     }
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
